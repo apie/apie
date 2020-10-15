@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a dev from The Netherlands
+
+- Currently working at Dacom Farm Intelligence (@crop-r)
+- Working in Python, Django, Javascript
+- Learning Typescript and ReactJS
+- Clean code, simple is better than complex
+
 <!--
 **apie/apie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
