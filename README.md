@@ -2,7 +2,7 @@
 
 I'm a dev from The Netherlands
 
-- Currently working at Dacom Farm Intelligence ([@crop-r](https://github.com/Crop-R))
+- Currently working at Dacom Farm Intelligence ([@crop-r](https://github.com/Crop-R) / [@cropx](https://github.com/cropx)))
 - Working in Python, Django, Javascript
 - Learning Typescript and ReactJS
 - Clean code, simple is better than complex
