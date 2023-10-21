@@ -3,8 +3,10 @@
 I'm a dev from The Netherlands
 
 - Currently working at Dacom Farm Intelligence ([@crop-r](https://github.com/Crop-R) / [@cropx](https://github.com/cropx))
-- Working in Python, Django, Javascript
-- Learning Typescript and ReactJS
+- Working in Python, Django, Javascript, Typescript and ReactJS
+- Learning golang
+- Vimmer
+- Ansible is great 😄
 - Clean code, simple is better than complex
 
 <!--
