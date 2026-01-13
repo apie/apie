@@ -2,7 +2,6 @@
 
 I'm a dev from The Netherlands
 
-- Currently working at [YTEC](https://ytec.nl)
 - Working in Python, Django, Javascript, Typescript and ReactJS
 - Learning golang
 - Vimmer
